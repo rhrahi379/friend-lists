@@ -1,0 +1,30 @@
+@media screen and (max-width: 500px) {
+    .container .medium {
+        padding: 0 20px;
+        align-items: center;
+    }
+    .container .medium h2 {
+        font-size: 16px;
+    }
+    .medium #btn {
+        width: 120px;
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .container .btm {
+        justify-content: space-between;
+        gap: 20px;
+    }
+    .container .btm .img {
+        height: 100%;
+        max-height: 430px;
+        width: auto;
+    }
+    .container .btm .img img {
+        width: 100%;
+        height: auto;
+    }
+    .container .btm i {
+        font-size: 30px;
+    }
+}
