@@ -91,8 +91,6 @@ body {
     color: var(--second-color);
 }
 .btm .img {
-    border: 1px solid var(--font-color);
-    border-radius: 30px;
     height: 100%;
     max-height: 500px;
     width: auto;
@@ -101,6 +99,8 @@ body {
     place-items: center;
 }
 .btm .img img {
+    border-radius: 30px;
+    border: 1px solid var(--font-color);
     width: 100%;
     height: auto;
     max-height: 500px;
