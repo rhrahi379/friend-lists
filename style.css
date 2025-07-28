@@ -100,7 +100,7 @@ body {
 }
 .btm .img img {
     border-radius: 30px;
-    border: 1px solid var(--font-color);
+    border: 3px solid red;
     width: 100%;
     height: auto;
     max-height: 500px;
